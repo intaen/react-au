@@ -1,0 +1,20 @@
+{
+  "name": "react-au",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'Build is not required for javascript'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intaen/react-au.git"
+  },
+  "author": "intaen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intaen/react-au/issues"
+  },
+  "homepage": "https://github.com/intaen/react-au#readme",
+  "description": ""
+}
